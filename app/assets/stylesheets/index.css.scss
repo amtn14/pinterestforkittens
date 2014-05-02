@@ -1,3 +1,12 @@
 // Place all the styles related to the index controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+$navbar-inverse-bg: rgb(133, 18, 38);
+// background color
+$navbar-inverse-color: white;
+//color of font
+$navbar-inverse-link-color: white;
+$navbar-border-radius: 0;
+//equal distance of text and bar
+@import 'bootstrap';
